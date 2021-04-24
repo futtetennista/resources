@@ -12,3 +12,4 @@ dependencies:
      - "git+git://github.com/pymc-devs/pymc3.git@master"
      - causalgraphicalmodels
      - daft
+     - statsmodels
